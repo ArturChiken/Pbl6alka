@@ -1,2 +1,2 @@
 # Pbl6alka
-Pbl6alka is a university game project
+Pbl6alka is an university game project
